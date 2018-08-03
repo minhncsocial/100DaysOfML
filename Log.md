@@ -20,7 +20,7 @@ vreptutorial dotEH](https://www.youtube.com/channel/UCbMWe5uU-udNiGVmIHAUmjg). I
 
 **Thoughts** : Hope this will be exiciting .
 
-## Day 2 : Aug 2 , 2018
+## Day 3 : Aug 3 , 2018
  
 **Today's Progress** : I decide to find the code of [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) and underderstand it's input, output, the way it runs.
 

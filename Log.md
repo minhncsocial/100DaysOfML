@@ -22,6 +22,14 @@ vreptutorial dotEH](https://www.youtube.com/channel/UCbMWe5uU-udNiGVmIHAUmjg). I
 
 ## Day 3 : Aug 3 , 2018
  
-**Today's Progress** : I decide to find the code of [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) and underderstand it's input, output, the way it runs.
+**Today's Progress** : I decide to find the code of [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) and understand it's input, output, the way it runs.
 
 **Thoughts** : I hope I can find out, and I can learn fast from it .
+
+## Day 4 : Aug 4 , 2018
+ 
+**Today's Progress** : Run pointnet.pytorch
+
+**Thoughts** : I hope I can find out, and I can learn fast from it .
+
+**Link of Work** : [Link](https://github.com/minhncedutw/pointnet.pytorch)

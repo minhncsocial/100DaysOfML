@@ -33,3 +33,11 @@ vreptutorial dotEH](https://www.youtube.com/channel/UCbMWe5uU-udNiGVmIHAUmjg). I
 **Thoughts** : I hope I can find out, and I can learn fast from it .
 
 **Link of Work** : [Link](https://github.com/minhncedutw/pointnet.pytorch)
+
+## Day 4 : Aug 4 , 2018
+ 
+**Today's Progress** : Run pointnet-keras; Build simulation environment(VRef + Bullet)
+
+**Thoughts** : PointNet is network to classify and segmentate objects from Point Cloud screen. PointNet-keras is opensource code that's simplest to study.
+
+**Link of Work** : [Link](https://github.com/minhncsocial/pointnet-keras.git)

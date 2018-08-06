@@ -41,3 +41,8 @@ vreptutorial dotEH](https://www.youtube.com/channel/UCbMWe5uU-udNiGVmIHAUmjg). I
 **Thoughts** : PointNet is network to classify and segmentate objects from Point Cloud screen. PointNet-keras is opensource code that's simplest to study.
 
 **Link of Work** : [Link](https://github.com/minhncsocial/pointnet-keras.git)
+
+## Day 6 : Aug 6, 2018
+ 
+**Today's Progress** : watch [Best Programming Languages for Machine Learning](https://www.youtube.com/watch?v=-cdxxrbKdho&feature=youtu.be) . watch [DeepMind Has A Superhuman Level Quake 3 AI Team](https://www.youtube.com/watch?v=MvFABFWPBrw)
+
